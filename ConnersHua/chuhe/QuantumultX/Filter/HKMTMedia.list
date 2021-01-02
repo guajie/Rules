@@ -1,0 +1,6 @@
+# (HKMTMedia)
+# > 愛奇藝台灣站
+host-suffix, cache.video.iqiyi.com, direct
+# > bilibili
+host, api.bilibili.com, direct
+host, upos-hz-mirrorakam.akamaized.net, direct
